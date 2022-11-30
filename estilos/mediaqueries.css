@@ -10,25 +10,15 @@
         min-height: 90vh;
     }
 
+
+    
     nav.desktop-menu{
         display: none;
     }
-    nav.mobile-menu{
-        display: inline-block;
-    }
-
-    nav.mobile-menu ul{
-    display: none;
-    }
-
-
-    nav.mobile-menu:hover ul{
+    .mobile{
         display: block;
     }
 
-    nav.mobile-menu ul li:hover{
-        background-color: lightgray;
-    }
 
     .chamada1{
         float: none;

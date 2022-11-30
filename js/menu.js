@@ -1,7 +1,7 @@
 $(function(){
 
-    $('#mobile-menu').click(function(){
-        $('#menu-tog').slideToggle(500);
+    $('.mockmenu').click(function(){
+        $('.mobile-menu').slideToggle(500);
     });
 
 });
